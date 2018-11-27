@@ -1,4 +1,4 @@
-## ----------------------------------------hardDOS [MISC 497]---------------------------------------
+##                                              hardDOS [MISC 497]
 ### DESCRIPTION : 
 Paying attention is mitey important! (Difficulty: Hard)
 ### CHALLENGE   : 
@@ -8,6 +8,6 @@ Medium
 ### SOLVED BY:
 BADboy17{ ;) }
 
-# ----------------------------------Writeup------------------------ :shipit:
+#                                                   Writeup:
 
                                     [IMAGE]
