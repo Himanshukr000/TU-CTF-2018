@@ -7,7 +7,8 @@ nc 18.216.100.42 12345
 
 ![hardDOS](hardDOS.png)
 ### DIFFICULTY  :
-Medium
+<font color="red">HARD!</font>
+
 ### SOLVED BY:
 BADboy17{ ;) }
 
