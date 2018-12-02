@@ -35,7 +35,7 @@ by _strings FILENAME_ command and BTOOOM!!
 
 
 
-# The FLAG was there:
+# The FLAG was there.
 ## TUCTF{4LW4Y5_1NF3C7_7H353_19742_BY735}
 
    
