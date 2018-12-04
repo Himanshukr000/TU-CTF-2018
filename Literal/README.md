@@ -11,7 +11,7 @@ http://18.222.124.7
 ## DIFFICULTY:
 EASY! 
 
-Well This Challenge was a cakewalk. The link was redirecting to another webpage on Wikipedia. To Solve this We just stopped the loading of webpage and viewed the source of page http://18.222.124.7/Literal.html. It gave something like this:
+Well This Challenge was a cakewalk. The link was redirecting to another webpage on Wikipedia. To Solve this We just stopped the loading of webpage and viewed the source of page (CTRL+U) http://18.222.124.7/Literal.html. It gave something like this:
 
 ```HTML
 
